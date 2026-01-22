@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://www.appgefahren.de/wp-content/uploads/2019/07/PDF-Expert-7-Icon.jpg" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/pdf-expert">
+<a href="https://ysids-apps-hub.github.io/.github/pdf-expert">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
